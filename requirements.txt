@@ -1,5 +1,5 @@
 selenium
-beautifulsoup4
+BeautifulSoup4
 pandas
 openpyxl
 webdriver-manager
